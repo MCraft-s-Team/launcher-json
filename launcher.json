@@ -447,13 +447,13 @@
             ]
         },        
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
-            "description": "Tests for our version change to 1.12.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "id": "skyblock-retos",
+            "name": "Skyblock con Retos",
+            "description": "Sobrevive en un skyblock completando retos diversos.",
+            "icon": "https://clipground.com/images/skyblock-png-6.png",
             "version": "4.6.5",
             "address": "mc.westeroscraft.com:4445",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
                 "largeImageText": "WesterosCraft 1.12.2 Test Server",
