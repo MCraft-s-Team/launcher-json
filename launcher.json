@@ -11,13 +11,13 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.5",
+            "id": "hormigeo-group1",
+            "name": "Hormigeo - By aldo_geo",
+            "description": "Los streamers son hormigas y deberán sobrevivir al hormigeo.",
+            "icon": "https://media.discordapp.net/attachments/787419127307304961/998369942271443034/unknown.png",
+            "version": "1.0.0",
             "address": "mc.westeroscraft.com:25565",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
                 "largeImageText": "WesterosCraft 1.12.2 Production Server",
