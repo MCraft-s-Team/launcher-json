@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.2.0",
     "discord": {
         "clientId": "385581240906022916",
         "smallImageText": "WesterosCraft",
@@ -11,13 +11,13 @@
     "rss": "https://westeroscraft.com/articles/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.12.2",
-            "name": "WesterosCraft 1.12.2 Production Server",
-            "description": "New 1.12.2 production server.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "4.6.5",
+            "id": "hormigeo-group1",
+            "name": "Hormigeo - By aldo_geo",
+            "description": "Los streamers son hormigas y deberán sobrevivir al hormigeo.",
+            "icon": "https://media.discordapp.net/attachments/787419127307304961/998369942271443034/unknown.png",
+            "version": "1.0.0",
             "address": "mc.westeroscraft.com:25565",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
                 "shortId": "1.12.2 Production Server",
                 "largeImageText": "WesterosCraft 1.12.2 Production Server",
@@ -447,13 +447,13 @@
             ]
         },        
         {
-            "id": "WesterosCraftTest-1.12.2",
-            "name": "WesterosCraft 1.12.2 Test Server",
-            "description": "Tests for our version change to 1.12.2 are live here.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-test.png",
+            "id": "skyblock-retos",
+            "name": "Skyblock con Retos",
+            "description": "Sobrevive en un skyblock completando retos diversos.",
+            "icon": "https://clipground.com/images/skyblock-png-6.png",
             "version": "4.6.5",
             "address": "mc.westeroscraft.com:4445",
-            "minecraftVersion": "1.12.2",
+            "minecraftVersion": "1.18.2",
             "discord": {
                 "shortId": "1.12.2 Test Server",
                 "largeImageText": "WesterosCraft 1.12.2 Test Server",
